@@ -1,2 +1,2 @@
 # Python-Multiprocessing-talk
-Repo containg notes and example code from 25/02/20 Tech chay
+Repo containing notes and example code from 25/02/20 Tech chat entitled "Python Multiprocessing: going beyond one core in python". The notes are contained in a Juypiter notebook "Talk_notes.ipynb". Note: the code blocks inside the notebook will not work as intended under windows due to a quirk in both Windows and Juypier. So I have added comments to these sections and I included the full examples as seperate files for use in this case.
